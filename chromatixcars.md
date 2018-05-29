@@ -94,13 +94,13 @@
     '
     '
     22 Audi TT id:22
-    
+
 
 |   | id        | Name of Car           | Pictures  |
 |---| ------------- |:-------------:| -----:|
-|   | 1         | Audi               | <img src= "images/AudiA1.png" width="200"> |
-|   | 3         | Audi Cabriolet            |   <img src= "images/AudiA3.png" width="200"> |
-|   | 22          | Audi TT    |    <img src= "images/AudiTT.png" width="200"> |
+|   | 1         | Audi               | <img src= "Images/AudiA1.png" width="200"> |
+|   | 3         | Audi Cabriolet            |   <img src= "Images/AudiA3.png" width="200"> |
+|   | 22          | Audi TT    |    <img src= "Images/AudiTT.png" width="200"> |
 
 
     23 Ford EcoSport id:23
@@ -113,9 +113,9 @@
 
 |   | id        | Name of Car           | Pictures  |
 |---| ------------- |:-------------:| -----:|
-|   | 1         | Ford EcoSport               | <img src= "images/fordecosport.png" width="200"> |
-|   | 24       | Ford Escape            |   <img src= "images/fordescape.png" width="200"> |
-|   | 33          | Ford Ranger    |    <img src= "images/fordranger.png" width="200"> |
+|   | 1         | Ford EcoSport               | <img src= "Images/fordecosport.png" width="200"> |
+|   | 24       | Ford Escape            |   <img src= "Images/fordescape.png" width="200"> |
+|   | 33          | Ford Ranger    |    <img src= "Images/fordranger.png" width="200"> |
 
     
  
