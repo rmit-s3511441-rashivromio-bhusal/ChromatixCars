@@ -113,9 +113,9 @@
 
 |   | id        | Name of Car           | Pictures  |
 |---| ------------- |:-------------:| -----:|
-|   | 1         | Ford EcoSport               | <img src= "Images/fordecosport.png" width="200"> |
-|   | 24       | Ford Escape            |   <img src= "Images/fordescape.png" width="200"> |
-|   | 33          | Ford Ranger    |    <img src= "Images/fordranger.png" width="200"> |
+|   | 1         | Ford EcoSport               | <img src= "car-images/fordecosport.png" width="200"> |
+|   | 24       | Ford Escape            |   <img src= "car-images/fordescape.png" width="200"> |
+|   | 33          | Ford Ranger    |    <img src= "car-images/fordranger.png" width="200"> |
 
     
  
