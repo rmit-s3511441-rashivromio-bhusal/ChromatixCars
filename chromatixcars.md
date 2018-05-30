@@ -5,7 +5,7 @@
 
 <!--Italics -->
 
-**Categories with id number 1,289,505,721**
+**Categories with id number 1; 289; 505; 721**
 * 1 stands for Adventure
 * 289 stands for Safety
 * 505 stands for Performance
@@ -27,6 +27,7 @@
      4 surfing
      5 off roading 
      6 camping
+     ```
 
 **Sub-categories under Safety**
 * Safety    ( 289 )
@@ -39,6 +40,7 @@
 
      1 room to grow
      2 a little prestige
+     ```
 
 **Sub-categories under Performance**
 * Performance   ( 505 )
@@ -51,6 +53,7 @@
 
      1 the weekend
      2 long road trips
+     ```
  
 **Sub-categories under Reliability**  
 *  Reliability  ( 721 )
@@ -64,6 +67,7 @@
      1 a workhorse
      2 my first car
      3 extra comfort
+     ```
 
 *Array of status divided into 4 categories*
  * 3 stands for Single
@@ -120,9 +124,11 @@
     
  
  
- #  DATA INSIDE
+ #  Explaining Data
 
  ```
+ The data below is fetched from REST API in a json format.
+  
  "219651": {
       "cars": [
         25,
@@ -141,7 +147,11 @@
  ```
 2 Camping   196 North-West  51 Family 
 
-When you select this option then you can view following cars in your browser
+When you select this option then you can view following cars in your browser.
+From the above data for 219651. The number is stored as a data in json format using REST. After the user select the certain category for the personal use of a car. For eg:-
+A user wants a car for Camping. He/she wants the car available in North-West Region and he/she needs the car for his/herr Family then the following options of the car is displayed. 
+
+List of car displayed :
 
 25 Ford Everet
 33 Ford Ranger
