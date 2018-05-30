@@ -5,7 +5,7 @@
 
 <!--Italics -->
 
-**Categories with id number 1,289,505,721**
+**Categories with id number 1; 289; 505; 721**
 * 1 stands for Adventure
 * 289 stands for Safety
 * 505 stands for Performance
