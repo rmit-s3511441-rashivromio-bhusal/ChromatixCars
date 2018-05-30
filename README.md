@@ -27,6 +27,7 @@
      4 surfing
      5 off roading 
      6 camping
+     ```
 
 **Sub-categories under Safety**
 * Safety    ( 289 )
@@ -39,6 +40,7 @@
 
      1 room to grow
      2 a little prestige
+     ```
 
 **Sub-categories under Performance**
 * Performance   ( 505 )
@@ -51,6 +53,7 @@
 
      1 the weekend
      2 long road trips
+     ```
  
 **Sub-categories under Reliability**  
 *  Reliability  ( 721 )
@@ -64,6 +67,7 @@
      1 a workhorse
      2 my first car
      3 extra comfort
+     ```
 
 *Array of status divided into 4 categories*
  * 3 stands for Single
