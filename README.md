@@ -151,6 +151,8 @@ When you select this option then you can view following cars in your browser.
 From the above data for 219651. The number is stored as a data in json format using REST. After the user select the certain category for the personal use of a car. For eg:-
 A user wants a car for Camping. He/she wants the car available in North-West Region and he/she needs the car for his/herr Family then the following options of the car is displayed. 
 
+List of car displayed :
+
 25 Ford Everet
 33 Ford Ranger
 48 Mitsubishi ASX
