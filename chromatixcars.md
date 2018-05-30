@@ -91,6 +91,7 @@
 ```
 
 ## Cars
+```
     1 Audi A1 id:1
     2 Audi A3 id:2
     3 Audi A3 Cabriolet id:3
@@ -98,7 +99,7 @@
     '
     '
     22 Audi TT id:22
-
+```
 
 |   | id        | Name of Car           | Pictures  |
 |---| ------------- |:-------------:| -----:|
@@ -147,7 +148,7 @@
  ```
 2 Camping   196 North-West  51 Family 
 
-When you select this option then you can view following cars in your browser.
+
 From the above data for 219651. The number is stored as a data in json format using REST. After the user select the certain category for the personal use of a car. For eg:-
 A user wants a car for Camping. He/she wants the car available in North-West Region and he/she needs the car for his/herr Family then the following options of the car is displayed. 
 
